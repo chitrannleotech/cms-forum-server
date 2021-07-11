@@ -1,0 +1,12 @@
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\bin\Debug\net5.0\Cms.Model.Entities.deps.json
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\bin\Debug\net5.0\Cms.Model.Entities.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\bin\Debug\net5.0\ref\Cms.Model.Entities.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\bin\Debug\net5.0\Cms.Model.Entities.pdb
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\obj\Debug\net5.0\Cms.Model.Entities.csproj.AssemblyReference.cache
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\obj\Debug\net5.0\Cms.Model.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\obj\Debug\net5.0\Cms.Model.Entities.AssemblyInfoInputs.cache
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\obj\Debug\net5.0\Cms.Model.Entities.AssemblyInfo.cs
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\obj\Debug\net5.0\Cms.Model.Entities.csproj.CoreCompileInputs.cache
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\obj\Debug\net5.0\Cms.Model.Entities.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\obj\Debug\net5.0\ref\Cms.Model.Entities.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Model\Cms.Model.Entities\obj\Debug\net5.0\Cms.Model.Entities.pdb

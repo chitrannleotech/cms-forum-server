@@ -1,0 +1,15 @@
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\bin\Debug\net5.0\Cms.Forum.Dtos.deps.json
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\bin\Debug\net5.0\Cms.Forum.Dtos.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\bin\Debug\net5.0\ref\Cms.Forum.Dtos.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\bin\Debug\net5.0\Cms.Forum.Dtos.pdb
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\obj\Debug\net5.0\Cms.Forum.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\obj\Debug\net5.0\Cms.Forum.Dtos.AssemblyInfoInputs.cache
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\obj\Debug\net5.0\Cms.Forum.Dtos.AssemblyInfo.cs
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\obj\Debug\net5.0\Cms.Forum.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\obj\Debug\net5.0\Cms.Forum.Dtos.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\obj\Debug\net5.0\ref\Cms.Forum.Dtos.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\obj\Debug\net5.0\Cms.Forum.Dtos.pdb
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\obj\Debug\net5.0\Cms.Forum.Dtos.csproj.AssemblyReference.cache
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\bin\Debug\net5.0\Cms.Model.Entities.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\bin\Debug\net5.0\Cms.Model.Entities.pdb
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Dtos\obj\Debug\net5.0\Cms.Forum.Dtos.csproj.CopyComplete

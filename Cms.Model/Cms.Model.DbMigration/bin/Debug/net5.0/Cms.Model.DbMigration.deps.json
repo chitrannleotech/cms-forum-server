@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cms.Model.DbMigration/1.0.0": {
+        "runtime": {
+          "Cms.Model.DbMigration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cms.Model.DbMigration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

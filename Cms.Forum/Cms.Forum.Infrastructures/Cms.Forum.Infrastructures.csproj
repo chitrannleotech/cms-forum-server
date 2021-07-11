@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Cms.Model\Cms.Model.Entities\Cms.Model.Entities.csproj" />
+    <ProjectReference Include="..\Cms.Forum.Dtos\Cms.Forum.Dtos.csproj" />
+  </ItemGroup>
+
+</Project>

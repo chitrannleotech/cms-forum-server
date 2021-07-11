@@ -1,0 +1,17 @@
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\bin\Debug\net5.0\Cms.Forum.Infrastructures.deps.json
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\bin\Debug\net5.0\Cms.Forum.Infrastructures.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\bin\Debug\net5.0\ref\Cms.Forum.Infrastructures.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\bin\Debug\net5.0\Cms.Forum.Infrastructures.pdb
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\obj\Debug\net5.0\Cms.Forum.Infrastructures.csproj.AssemblyReference.cache
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\obj\Debug\net5.0\Cms.Forum.Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\obj\Debug\net5.0\Cms.Forum.Infrastructures.AssemblyInfoInputs.cache
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\obj\Debug\net5.0\Cms.Forum.Infrastructures.AssemblyInfo.cs
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\obj\Debug\net5.0\Cms.Forum.Infrastructures.csproj.CoreCompileInputs.cache
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\obj\Debug\net5.0\Cms.Forum.Infrastructures.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\obj\Debug\net5.0\ref\Cms.Forum.Infrastructures.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\obj\Debug\net5.0\Cms.Forum.Infrastructures.pdb
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\bin\Debug\net5.0\Cms.Model.Entities.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\bin\Debug\net5.0\Cms.Model.Entities.pdb
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\obj\Debug\net5.0\Cms.Forum.Infrastructures.csproj.CopyComplete
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\bin\Debug\net5.0\Cms.Forum.Dtos.dll
+C:\Users\KimAnh\source\repos\CmsForumSolution\Cms.Forum\Cms.Forum.Infrastructures\bin\Debug\net5.0\Cms.Forum.Dtos.pdb
